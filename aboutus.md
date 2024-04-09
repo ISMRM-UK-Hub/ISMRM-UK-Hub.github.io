@@ -9,5 +9,5 @@ The aim of this first ISMRM UK hub is to give virtual registrants of the annual 
 Blessed by:
 ![alt text](/assets/img/ISMRM-2020-Main-Logo-medium-2.png "ISMRM logo")
 
-Trainee registration funded:
+Trainee registration funded by:
 ![alt text](/assets/img/British-Irish.jpg "BIC ISMRM logo")
