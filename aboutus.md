@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About us
-subtitle: What is the ICP Network?
+subtitle: What is the ISMRM UK Hub?
 ---
 
-The Imaging Cerebral Physiology Network was created as a result of the Imaging Cerebral Physiology Symposium held in Leipzig in December 2014. At the symposium, attendees discussed the possibility of creating a network for the development and promotion of MR techniques for quantitative imaging of cerebral physiology. This network brings together experts who develop and use techniques such as calibrated fMRI and cerebrovascular reactivity mapping to study brain physiology in health and disease. By consolidating our efforts, provides this field with new opportunities for fruitful collaborations and greater visibility for these techniques.
+The aim of this first ISMRM UK hub is to give virtual registrants of the annual meeting of the ISMRM some of the in-person benefits of a conference but without travelling to Singapore. We believe there are many reasons people may choose to register virtually including environmental, responsibilities or disabilities that don’t allow travel, visa issues and insufficient funding. We have been in contact with the ISMRM central office and we have their full blessing to run a hub meeting in the UK, alongside a similar meeting being planned in Germany. We have also received funding from the BIC ISMRM to provide financial support for the attendance of trainee members.
